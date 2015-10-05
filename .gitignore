@@ -6,7 +6,7 @@ target
 /.project
 /.settings
 /RUNNING_PID
-
+# Ignore Play! working directory #
 bin/
 /db
 .eclipse
